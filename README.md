@@ -1,2 +1,3 @@
 # hello-world
-For cs-hu250
+
+This is a hello world activity for GitHub.
